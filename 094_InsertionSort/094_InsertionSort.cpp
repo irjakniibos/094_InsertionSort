@@ -26,7 +26,6 @@ void input() { //prosedur untuk input
 }
 
 
-
 void insertionsort() {
     //deklarasi variabel
     int i,temp,j;
@@ -66,6 +65,7 @@ void display() {
 
 int main()
 {
+
     input();
     insertionsort();
     display();
